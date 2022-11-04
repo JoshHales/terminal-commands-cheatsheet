@@ -8,6 +8,9 @@
 * Git diff
 * Git push
 * Git clone {url}
+* Git checkout {branch name}
+* Git fetch
+* git branch -d
 
 ## Other Commands
 
@@ -17,3 +20,10 @@
 * cd
 * cd -
 * pwd
+* open
+
+## XCode specific commands
+
+* Command+Shift+K - Clean build folder
+* Command + B
+* Command + R
