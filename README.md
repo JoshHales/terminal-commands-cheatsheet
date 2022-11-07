@@ -11,7 +11,7 @@
 * Git checkout {branch name}
 * Git fetch
 * git branch
-	* &#150; d
+	&mdash; d
 * git restore
 * git stash
 	* pop
