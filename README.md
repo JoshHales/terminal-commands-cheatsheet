@@ -10,7 +10,11 @@
 * Git clone {url}
 * Git checkout {branch name}
 * Git fetch
-* git branch -d
+* git branch
+	* - d
+* git restore
+* git stash
+	* pop
 
 ## Other Commands
 
@@ -27,3 +31,4 @@
 * Command+Shift+K - Clean build folder
 * Command + B
 * Command + R
+* swiftformat
