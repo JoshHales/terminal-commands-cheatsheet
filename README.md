@@ -8,7 +8,8 @@
 * Git diff
 * Git push
 * Git clone {url}
-* Git checkout {branch name}
+* Git checkout
+	* &mdash; b
 * Git fetch
 * git branch
 	* &mdash; d
@@ -25,6 +26,8 @@
 * cd -
 * pwd
 * open
+* :q
+* :w
 
 ## XCode specific commands
 
@@ -32,3 +35,4 @@
 * Command + B
 * Command + R
 * swiftformat
+* Command + [
