@@ -36,3 +36,4 @@
 * Command + R
 * swiftformat
 * Command + [
+* option + command + f
