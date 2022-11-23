@@ -39,3 +39,4 @@
 * swiftformat
 * Command + [
 * option + command + f
+* Control + I
