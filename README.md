@@ -23,11 +23,13 @@
 * rm
 * ls
 * cd
-* cd -
+	* -
+	* ..
 * pwd
 * open
 * :q
 * :w
+* Control + c
 
 ## XCode specific commands
 
